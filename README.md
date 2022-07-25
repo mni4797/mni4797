@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Islam
-- 👀 I’m interested in Java, Pega, Python
+- 👀 I’m interested in Java,Python, JavaScript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ... mohammadNislam92@gmail.com
